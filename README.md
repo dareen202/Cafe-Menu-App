@@ -16,7 +16,7 @@ This project allows customers to view the restaurant’s menu (loaded from an Ex
 
 ## 🛠️ Technologies Used  
 
-- **Python 3.x**  
+- **Python**  
 - **Tkinter** – For GUI  
 - **Pandas** – For reading Excel files  
 - **Excel Sheet (.xlsx)** – Stores menu items and categories  
