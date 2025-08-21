@@ -1,6 +1,6 @@
 # 🍴 Skaker – Cafe Ordering System  
 
-A simple **Python-based Cafe and Menu Ordering System** with a graphical user interface (GUI) built using **Tkinter**.  
+A simple **Python-based Cafe Menu and Ordering System** with a graphical user interface (GUI) built using **Tkinter**.  
 This project allows customers to view the restaurant’s menu (loaded from an Excel file), add items with chosen quantities to their cart, and generate a total bill automatically.  
 
 ---
